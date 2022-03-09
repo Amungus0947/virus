@@ -1,0 +1,14 @@
+<head>
+  <title>guides</title>
+</head>
+<body>
+  <h2>cool guides on games</h2>
+  guides:
+  <button onclick="myFunction()">click me for the game</button>
+
+<script>
+function myFunction() {
+  location.replace("https://www.youtube.com/watch?v=dQw4w9WgXcQ")
+}
+</script>
+</body>
